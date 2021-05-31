@@ -2,6 +2,8 @@
 
 This project was bootstrapped & snipped to make fast projects easy.
 
+### `npm install` 4 all dependencies
+
 ## Available Scripts
 
 In the project directory, you can run:
